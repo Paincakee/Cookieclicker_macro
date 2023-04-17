@@ -14,4 +14,4 @@ while True:
     if cookie is not None:
         cookie_center = pyautogui.center(cookie)
         pyautogui.click(cookie_center)
-        time.sleep(click_speed)
+        
